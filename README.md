@@ -2,5 +2,3 @@
 
 ## Demo
 http://gwshop.meteor.com
-
-.........

@@ -10,13 +10,26 @@ FlowRouter.route( '/', {
 	name: 'home',
 	action() {
 		ReactLayout.render( App );
-		/*
-		if ( !Meteor.loggingIn() && Meteor.user() ) {
-			//FlowRouter.go('/patients');
-		}
-		else {
-			//FlowRouter.go('/account/signin');
-		}
-		*/
+	}
+});
+
+FlowRouter.route( '/wts', {
+	name: 'wts',
+	action() {
+		ReactLayout.render( App );
+	}
+});
+
+FlowRouter.route( '/wtb', {
+	name: 'wtb',
+	action() {
+		ReactLayout.render( App );
+	}
+});
+
+FlowRouter.route( '/shop', {
+	name: 'wtb',
+	action() {
+		ReactLayout.render( App );
 	}
 });

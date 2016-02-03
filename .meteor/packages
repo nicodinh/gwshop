@@ -22,9 +22,10 @@ aldeed:simple-schema
 react
 kadira:flow-router
 kadira:react-layout
-static-html
 ongoworks:security
 accounts-base
 audit-argument-checks
 numeral:numeral
 izzilab:material-ui
+accounts-ui
+blaze-html-templates

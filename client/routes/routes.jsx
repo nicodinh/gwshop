@@ -13,20 +13,6 @@ FlowRouter.route( '/', {
 	}
 });
 
-FlowRouter.route( '/wts', {
-	name: 'wts',
-	action() {
-		ReactLayout.render( App );
-	}
-});
-
-FlowRouter.route( '/wtb', {
-	name: 'wtb',
-	action() {
-		ReactLayout.render( App );
-	}
-});
-
 FlowRouter.route( '/shop', {
 	name: 'wtb',
 	action() {

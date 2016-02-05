@@ -45,6 +45,12 @@ App = React.createClass({
 							href='/wts'
 						/>
 						<ToolbarSeparator />
+						<FlatButton
+							label='My shop'
+							linkButton={ true }
+							href='/shop'
+						/>
+						<ToolbarSeparator />
 					</ToolbarGroup>
 					<ToolbarGroup firstChild={ false } float='right'>
 						<ToolbarTitle text='GWShop.lol - "Selling items forever"' />

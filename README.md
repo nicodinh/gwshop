@@ -7,6 +7,9 @@ React: https://github.com/facebook/react
 
 Material-ui: https://github.com/callemall/material-ui
 
+## Start
+~$ meteor
+
 ## Demo
 http://gwshop.meteor.com
 

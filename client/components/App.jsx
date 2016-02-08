@@ -1,24 +1,18 @@
 injectTapEventPlugin();
 
 const {
-	Styles,
-	//IconMenu,
-	//IconButton,
-	//FontIcon,
-	//NavigationExpandMoreIcon,
-	//MenuItem,
-	//DropDownMenu,
+	//Styles,
 	FlatButton,
 	Toolbar,
 	ToolbarGroup,
 	ToolbarSeparator,
-	ToolbarTitle
+	ToolbarTitle,
 } = MUI;
 
-const {
-	ThemeManager,
-	LightRawTheme
-} = Styles;
+//const {
+//	ThemeManager,
+//	LightRawTheme
+//} = Styles;
 
 App = React.createClass({
 	mixins: [ReactMeteorData],

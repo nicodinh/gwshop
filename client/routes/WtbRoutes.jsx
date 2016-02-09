@@ -1,6 +1,13 @@
-FlowRouter.route( '/wtb', {
-	name: 'wtb',
+ShopRoutes = FlowRouter.group({
+	prefix: '/wtb',
+	name: 'shop'
+});
+
+ShopRoutes.route( '/', {
+	name: 'shop details',
 	action() {
-		ReactLayout.render( App );
+		ReactLayout.render( App, {
+			//children: <Header />
+		})
 	}
 });

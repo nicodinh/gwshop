@@ -3,7 +3,7 @@ const {
 	RadioButtonGroup
 } = MUI;
 
-WeaponArmorItem = React.createClass({
+ArmorInsigniasRunes = React.createClass({
 	render() {
 		const styles = {
 			div: {
@@ -15,20 +15,15 @@ WeaponArmorItem = React.createClass({
 		};
 		return (
 			<div style={ styles.div }>
-				<RadioButtonGroup name='typeItem'>
+				<RadioButtonGroup name='typeArmor'>
 					<RadioButton
-						value='Weapon'
-						label='Weapon'
+						value='Insignias'
+						label='Insignias'
 						style={ styles.radioButton }
 					/>
 					<RadioButton
-						value='Armor'
-						label='Armor'
-						style={ styles.radioButton }
-					/>
-					<RadioButton
-						value='Item'
-						label='Item'
+						value='Runes'
+						label='Runes'
 						style={ styles.radioButton }
 					/>
 				</RadioButtonGroup>

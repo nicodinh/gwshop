@@ -1,6 +1,6 @@
-====================================================================
+==================================================================================
 gwshop is licensed under the MIT License (MIT)
-====================================================================
+==================================================================================
 
 Copyright (c) 2015--2016 AZARI Nicolas (https://github.com/nicodinh)
 
@@ -22,8 +22,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-====================================================================
+==================================================================================
 This license applies to all code in gwshop that is not an externally
-maintained library. Externally maintained libraries have their own
-licenses, included in the LICENSES directory.
-====================================================================
+maintained library and assets. Externally maintained libraries have their own
+licenses, included in the LICENSES directory and assets in their own assets directory.
+==================================================================================

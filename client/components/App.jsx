@@ -52,6 +52,11 @@ App = React.createClass({
 				</Toolbar>
 				{ this.props.children }
 			</div>
+		/** todo
+		 *
+		 * 1st start: inform  the ig account name, the shop name
+		 *
+		 */
 		)
 	}
 });

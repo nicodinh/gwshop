@@ -9,6 +9,7 @@ const {
 ArmorItemWeapon = React.createClass({
 	handleClick( event ) {
 		console.log( event.currentTarget.id );
+		FlowRouter.go(`/wts/${ event.currentTarget.id }`);
 	},
 	render() {
 		const styles = {

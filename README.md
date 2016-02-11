@@ -1,6 +1,6 @@
 # gwshop
 
-## Technology
+## Technologies
 Meteor: https://github.com/meteor/meteor
 
 React: https://github.com/facebook/react

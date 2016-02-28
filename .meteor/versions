@@ -55,7 +55,7 @@ less@2.5.1
 livedata@1.0.15
 localstorage@1.0.5
 logging@1.0.8
-mdg:validation-error@0.2.0
+mdg:validation-error@0.5.0
 meteor@1.1.10
 meteor-base@1.0.1
 minifiers@1.1.7

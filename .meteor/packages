@@ -19,7 +19,6 @@ accounts-password
 aldeed:collection2
 momentjs:moment
 aldeed:simple-schema
-react
 kadira:flow-router
 kadira:react-layout
 ongoworks:security

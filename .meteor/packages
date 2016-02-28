@@ -26,3 +26,4 @@ numeral:numeral
 accounts-ui
 blaze-html-templates
 aldeed:autoform
+iron:router

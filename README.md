@@ -7,7 +7,4 @@ Meteor (blaze): https://github.com/meteor/meteor
 ~$ meteor
 
 ## Demo
-http://gwshop.meteor.com
-
-## Production
-https://gwshop.lol (soon)
+https://gwshop.lol
